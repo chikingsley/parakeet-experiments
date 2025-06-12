@@ -1,6 +1,4 @@
-*.wav
-*.mp3
-*.json
 .venv/
-__pycache__/
 .DS_Store
+audio/*.wav
+audio/*.mp3
